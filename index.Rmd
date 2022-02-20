@@ -67,7 +67,7 @@ Programming and Visualization Skills {#skills}
 ```{r}
 skills <- tribble(
   ~skill,               ~level,
-  "R",                  3,
+  "R",                  2,
   "Python",             3,
   "SQL",                5,
   "Tableau",            5,
